@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 3510758400,
+  "duration": 4301474900,
   "status": "passed"
 });
 formatter.background({
@@ -26,7 +26,7 @@ formatter.match({
   "location": "LoginStepDefinition.user_is_on_techfios_login_page()"
 });
 formatter.result({
-  "duration": 1188798300,
+  "duration": 1301455700,
   "status": "passed"
 });
 formatter.scenario({
@@ -73,7 +73,7 @@ formatter.match({
   "location": "LoginStepDefinition.user_enters_username_as(String)"
 });
 formatter.result({
-  "duration": 2085071800,
+  "duration": 2082899300,
   "status": "passed"
 });
 formatter.match({
@@ -86,25 +86,25 @@ formatter.match({
   "location": "LoginStepDefinition.user_enters_password_as(String)"
 });
 formatter.result({
-  "duration": 38341900,
+  "duration": 37372100,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefinition.user_clicks_on_signin_button()"
 });
 formatter.result({
-  "duration": 788145100,
+  "duration": 907137000,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefinition.user_should_land_on_Dashboard_page()"
 });
 formatter.result({
-  "duration": 91837500,
+  "duration": 83544400,
   "status": "passed"
 });
 formatter.after({
-  "duration": 929079200,
+  "duration": 922667000,
   "status": "passed"
 });
 });
